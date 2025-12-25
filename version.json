@@ -1,8 +1,9 @@
 {
     "version": "0.0.1",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/0.1/acc_telemetry_logger_0.1.zip",
-    "sha256": "82BEBBF9A8DF9685533C28F11320C8CB930DB63BECBC95CD352A69F587FD6807",
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/0.0.2/acc_telemetry_logger_0.0.2.zip",
+    "sha256": "5887DB07E156D1B84756D0B9D5F4EC5C90F605B73E5A70554E6893965B6021FA",
     "release_notes": "Prima release stabile"
 
 }
+
 
