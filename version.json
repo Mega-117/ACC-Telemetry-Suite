@@ -1,9 +1,10 @@
 {
     "version": "0.1.0",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.1.0-dev/v_dev.zip",
-    "sha256": "B918A0A0674D17CFA1A183BCA0207F1D8B5857258E6C411605B724E82565FA00",
-    "release_notes": "Programma in beta"
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.1.0-dev/acc_suite_dev.zip",
+    "sha256": "8739C76E681F900923B900C9DF0EF75CF421D39CABB54650C4B9AD19B6A76D85",
+    "release_notes": "Programma in beta dev"
 }
+
 
 
 
