@@ -1,0 +1,38 @@
+{
+    "schema_version": 2,
+    "last_updated": "2026-01-07T20:10:00Z",
+    "components": {
+        "launcher": {
+            "version": "2.0.0",
+            "required": true,
+            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v2.0.0/ACC_Suite_v2.0.0.zip",
+            "sha256": "DA0D7E1BC87CCEC3F29D06A259032271C2FF284BA48D15268DA1189A415721FA",
+            "changelog": "Nuovo sistema manifest, versioning componenti"
+        },
+        "logger": {
+            "version": "2.0.0",
+            "required": true,
+            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v2.0.0/ACC_Suite_v2.0.0.zip",
+            "sha256": "DA0D7E1BC87CCEC3F29D06A259032271C2FF284BA48D15268DA1189A415721FA",
+            "changelog": "Versione stabile con nuovo launcher"
+        },
+        "webapp": {
+            "version": "2.0.0",
+            "required": false,
+            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v2.0.0/ACC_Suite_v2.0.0.zip",
+            "sha256": "DA0D7E1BC87CCEC3F29D06A259032271C2FF284BA48D15268DA1189A415721FA",
+            "changelog": "Dashboard desktop con titlebar e sync"
+        }
+    },
+    "bundle": {
+        "version": "2.0.0",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v2.0.0/ACC_Suite_v2.0.0.zip",
+        "sha256": "DA0D7E1BC87CCEC3F29D06A259032271C2FF284BA48D15268DA1189A415721FA",
+        "contains": [
+            "launcher",
+            "logger",
+            "webapp"
+        ]
+    },
+    "announcements": []
+}
