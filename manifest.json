@@ -1,33 +1,33 @@
 {
     "schema_version": 2,
-    "last_updated": "2026-01-07T21:25:00Z",
+    "last_updated": "2026-01-07T22:15:00Z",
     "components": {
         "launcher": {
             "version": "0.0.5",
             "required": true,
             "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.5/ACC_Suite_v0.0.5.zip",
-            "sha256": "B6212100487EB750071009C09FE210C74CEB9F2F3217B7337B71226AD9F10FEB",
-            "changelog": "Nuovo sistema manifest, download streaming fix"
+            "sha256": "934C86B2C6739B4EE6BE64454FE2C0C3DAE86DA1227CD0BF828F918CC7912CD1",
+            "changelog": "Fix estrazione webapp, download streaming"
         },
         "logger": {
             "version": "0.0.5",
             "required": true,
             "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.5/ACC_Suite_v0.0.5.zip",
-            "sha256": "B6212100487EB750071009C09FE210C74CEB9F2F3217B7337B71226AD9F10FEB",
-            "changelog": "Versione stabile con nuovo launcher"
+            "sha256": "934C86B2C6739B4EE6BE64454FE2C0C3DAE86DA1227CD0BF828F918CC7912CD1",
+            "changelog": "Versione stabile"
         },
         "webapp": {
             "version": "0.0.5",
             "required": false,
             "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.5/ACC_Suite_v0.0.5.zip",
-            "sha256": "B6212100487EB750071009C09FE210C74CEB9F2F3217B7337B71226AD9F10FEB",
-            "changelog": "Dashboard desktop con titlebar e sync"
+            "sha256": "934C86B2C6739B4EE6BE64454FE2C0C3DAE86DA1227CD0BF828F918CC7912CD1",
+            "changelog": "Dashboard desktop con titlebar"
         }
     },
     "bundle": {
         "version": "0.0.5",
         "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.5/ACC_Suite_v0.0.5.zip",
-        "sha256": "B6212100487EB750071009C09FE210C74CEB9F2F3217B7337B71226AD9F10FEB",
+        "sha256": "934C86B2C6739B4EE6BE64454FE2C0C3DAE86DA1227CD0BF828F918CC7912CD1",
         "contains": [
             "launcher",
             "logger",
