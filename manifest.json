@@ -1,33 +1,33 @@
 {
     "schema_version": 2,
-    "last_updated": "2026-01-08T15:35:00Z",
+    "last_updated": "2026-01-08T17:58:00Z",
     "components": {
         "launcher": {
-            "version": "0.0.6",
+            "version": "0.0.7",
             "required": true,
-            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.6/ACC_Suite_v0.0.6.zip",
-            "sha256": "73275C58913D1F1D2AE8DDD3BFF1E3EA476F90A97E3518F2525C440EE58A8A3C",
-            "changelog": "Progress bar download, fix .dev mode"
+            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.7/ACC_Suite_v0.0.7.zip",
+            "sha256": "2E8E4750D28DE2A83BFBDBD3EDA1726DB82D0F47179E69EEF6078ECFAAA55E4C",
+            "changelog": "Console progress, user data association"
         },
         "logger": {
-            "version": "0.0.5",
+            "version": "0.0.7",
             "required": true,
-            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.6/ACC_Suite_v0.0.6.zip",
-            "sha256": "73275C58913D1F1D2AE8DDD3BFF1E3EA476F90A97E3518F2525C440EE58A8A3C",
-            "changelog": "Versione stabile"
+            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.7/ACC_Suite_v0.0.7.zip",
+            "sha256": "2E8E4750D28DE2A83BFBDBD3EDA1726DB82D0F47179E69EEF6078ECFAAA55E4C",
+            "changelog": "ownerId in JSON sessions"
         },
         "webapp": {
-            "version": "0.0.5",
+            "version": "0.0.7",
             "required": false,
-            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.6/ACC_Suite_v0.0.6.zip",
-            "sha256": "73275C58913D1F1D2AE8DDD3BFF1E3EA476F90A97E3518F2525C440EE58A8A3C",
-            "changelog": "Fix .dev path resolution"
+            "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.7/ACC_Suite_v0.0.7.zip",
+            "sha256": "2E8E4750D28DE2A83BFBDBD3EDA1726DB82D0F47179E69EEF6078ECFAAA55E4C",
+            "changelog": "Save/clear user identity on login/logout"
         }
     },
     "bundle": {
-        "version": "0.0.6",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.6/ACC_Suite_v0.0.6.zip",
-        "sha256": "73275C58913D1F1D2AE8DDD3BFF1E3EA476F90A97E3518F2525C440EE58A8A3C",
+        "version": "0.0.7",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.0.7/ACC_Suite_v0.0.7.zip",
+        "sha256": "2E8E4750D28DE2A83BFBDBD3EDA1726DB82D0F47179E69EEF6078ECFAAA55E4C",
         "contains": [
             "launcher",
             "logger",
