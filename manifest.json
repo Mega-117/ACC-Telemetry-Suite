@@ -6,28 +6,28 @@
             "version": "0.0.5",
             "required": true,
             "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.0-dev/ACC_Suite_v0.2.0.zip",
-            "sha256": "13B61E3C1A6B2070D05E1BAE727CC5E28BB5B6F8C0149BE8A00A82998350E10C",
+            "sha256": "673EE8E67CCCE2AF7C0DAEC87DCA2D1C3C28B42B34C763105C84EF42A4B247B0",
             "changelog": "Fix estrazione webapp, download streaming"
         },
         "logger": {
             "version": "0.0.5",
             "required": true,
             "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.0-dev/ACC_Suite_v0.2.0.zip",
-            "sha256": "13B61E3C1A6B2070D05E1BAE727CC5E28BB5B6F8C0149BE8A00A82998350E10C",
+            "sha256": "673EE8E67CCCE2AF7C0DAEC87DCA2D1C3C28B42B34C763105C84EF42A4B247B0",
             "changelog": "Versione stabile"
         },
         "webapp": {
             "version": "0.0.5",
             "required": false,
             "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.0-dev/ACC_Suite_v0.2.0.zip",
-            "sha256": "13B61E3C1A6B2070D05E1BAE727CC5E28BB5B6F8C0149BE8A00A82998350E10C",
+            "sha256": "673EE8E67CCCE2AF7C0DAEC87DCA2D1C3C28B42B34C763105C84EF42A4B247B0",
             "changelog": "Dashboard desktop con titlebar"
         }
     },
     "bundle": {
         "version": "0.0.5",
         "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.0-dev/ACC_Suite_v0.2.0.zip",
-        "sha256": "13B61E3C1A6B2070D05E1BAE727CC5E28BB5B6F8C0149BE8A00A82998350E10C",
+        "sha256": "673EE8E67CCCE2AF7C0DAEC87DCA2D1C3C28B42B34C763105C84EF42A4B247B0",
         "contains": [
             "launcher",
             "logger",
@@ -36,5 +36,6 @@
     },
     "announcements": []
 }
+
 
 
