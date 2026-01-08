@@ -3,7 +3,7 @@
     "last_updated": "2026-01-07T22:15:00Z",
     "components": {
         "launcher": {
-            "version": "0.0.5",
+            "version": "0.0.6",
             "required": true,
             "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.0-dev/ACC_Suite_v0.0.5.zip",
             "sha256": "472A12B5540419047C72BE54B6B4E07CB0B09226B9E6E6F56127B2865201727A",
@@ -36,6 +36,7 @@
     },
     "announcements": []
 }
+
 
 
 
