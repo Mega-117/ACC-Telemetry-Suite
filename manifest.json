@@ -4,31 +4,31 @@
   
   "components": {
     "launcher": {
-      "version": "0.2.4",
+      "version": "0.2.5",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.4-dev/ACC_Suite_v0.2.4-dev.zip",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.5-dev/ACC_Suite_v0.2.5-dev.zip",
       "sha256": "27A0842E472E57FBBB6BDD94AD9C17ADB3AB4F51A8AACE019205FACD0C6BA107",
-      "changelog": "Build DEV v0.2.4-dev"
+      "changelog": "Build DEV v0.2.5-dev"
     },
     "logger": {
-      "version": "0.2.4",
+      "version": "0.2.5",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.4-dev/ACC_Suite_v0.2.4-dev.zip",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.5-dev/ACC_Suite_v0.2.5-dev.zip",
       "sha256": "27A0842E472E57FBBB6BDD94AD9C17ADB3AB4F51A8AACE019205FACD0C6BA107",
-      "changelog": "Build DEV v0.2.4-dev"
+      "changelog": "Build DEV v0.2.5-dev"
     },
     "webapp": {
-      "version": "0.2.4",
+      "version": "0.2.5",
       "required": false,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.4-dev/ACC_Suite_v0.2.4-dev.zip",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.5-dev/ACC_Suite_v0.2.5-dev.zip",
       "sha256": "27A0842E472E57FBBB6BDD94AD9C17ADB3AB4F51A8AACE019205FACD0C6BA107",
-      "changelog": "Build DEV v0.2.4-dev"
+      "changelog": "Build DEV v0.2.5-dev"
     }
   },
   
   "bundle": {
-    "version": "0.2.4",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.4-dev/ACC_Suite_v0.2.4-dev.zip",
+    "version": "0.2.5",
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.2.5-dev/ACC_Suite_v0.2.5-dev.zip",
     "sha256": "27A0842E472E57FBBB6BDD94AD9C17ADB3AB4F51A8AACE019205FACD0C6BA107",
     "contains": ["launcher", "logger", "webapp"]
   },
