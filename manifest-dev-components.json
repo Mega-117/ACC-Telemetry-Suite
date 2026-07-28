@@ -1,0 +1,50 @@
+{
+  "schema_version": 3,
+  "last_updated": "2026-07-27T23:59:38Z",
+  "components": {
+    "launcher": {
+      "version": "0.4.0-dev.2",
+      "required": true,
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.0-dev.2/ACC_Suite_Launcher_v0.4.0-dev.2.zip",
+      "sha256": "326D8B2CB3765A13570C9785093D13C054F5B2F333C338DBFCFBFD4DDC02B9ED",
+      "changelog": "Build DEV v0.4.0-dev.2"
+    },
+    "logger": {
+      "version": "0.4.0-dev.1",
+      "required": true,
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.0-dev.1/ACC_Suite_Logger_v0.4.0-dev.1.zip",
+      "sha256": "BFDBD31F6A1916D1BA76C6BA8D98E110235B420E97AAE5C76DF72C7EDC5482A2",
+      "changelog": "Build DEV v0.4.0-dev.1"
+    },
+    "webapp": {
+      "version": "0.4.0-dev.2",
+      "required": false,
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.0-dev.2/ACC_Suite_WebApp_v0.4.0-dev.2.zip",
+      "sha256": "E7C814E46C3094328F28ABADB6A4A7A3D7ED193F0C1E2BE35F96A2AB5432AD07",
+      "changelog": "Build DEV v0.4.0-dev.2"
+    },
+    "kokoro_runtime": {
+      "version": "1.0.0",
+      "required": false,
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.3.9-dev/ACC_Suite_Kokoro_v1.0.0.zip",
+      "sha256": "CA221C6F0C8C3021C0F72BEA3A00E6F8AF91B688BA0A55D602E8A8CC6C53D5F5",
+      "changelog": "Build DEV v0.3.9-dev"
+    }
+  },
+  "bundle": {
+    "version": "0.4.0-dev.2",
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.0-dev.2/ACC_Suite_Launcher_v0.4.0-dev.2.zip",
+    "sha256": "326D8B2CB3765A13570C9785093D13C054F5B2F333C338DBFCFBFD4DDC02B9ED",
+    "contains": [
+      "launcher"
+    ]
+  },
+  "announcements": [],
+  "suite": {
+    "version": "0.4.0-dev.2",
+    "base_version": "0.4.0",
+    "channel": "develop",
+    "candidate_revision": 2,
+    "source_commit": "c7b7d36dda674d3d3bf39035fc54de29afdef933"
+  }
+}
