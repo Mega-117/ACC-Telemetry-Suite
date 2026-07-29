@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-28T00:16:56Z",
+  "last_updated": "2026-07-29T10:47:05Z",
   "components": {
     "launcher": {
       "version": "0.4.0-dev.2",
@@ -24,10 +24,10 @@
   },
   "announcements": [],
   "suite": {
-    "version": "0.4.0-dev.2",
+    "version": "0.4.0-dev.3",
     "base_version": "0.4.0",
     "channel": "develop",
-    "candidate_revision": 2,
-    "source_commit": "ebdfd79d69ed4db63f0d27366315c5bf776a08ff"
+    "candidate_revision": 3,
+    "source_commit": "cce135b75d28c6c05f1e616f26cbe7110193c4af"
   }
 }
