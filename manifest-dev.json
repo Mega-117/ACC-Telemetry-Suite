@@ -1,19 +1,19 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-08-04T17:43:58Z",
+  "last_updated": "2026-08-05T16:28:47Z",
   "components": {
     "launcher": {
-      "version": "0.4.0-dev.4",
+      "version": "0.4.1-dev.5",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.0-dev.4/ACC_Suite_Launcher_v0.4.0-dev.4.zip",
-      "sha256": "8AC8D128800E8C84275FDABAA65DF064EC74E88F45EED701E225800C756E67EB",
-      "changelog": "Build DEV v0.4.0-dev.4"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.1-dev.5/ACC_Suite_Launcher_v0.4.1-dev.5.zip",
+      "sha256": "1DB4C7DEC0D8F92454958AE51459BB5BB2DC192A5D6B10AF82F9F09F56CF1127",
+      "changelog": "Build DEV v0.4.1-dev.5"
     }
   },
   "bundle": {
-    "version": "0.4.0-dev.4",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.0-dev.4/ACC_Suite_Launcher_v0.4.0-dev.4.zip",
-    "sha256": "8AC8D128800E8C84275FDABAA65DF064EC74E88F45EED701E225800C756E67EB",
+    "version": "0.4.1-dev.5",
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.1-dev.5/ACC_Suite_Launcher_v0.4.1-dev.5.zip",
+    "sha256": "1DB4C7DEC0D8F92454958AE51459BB5BB2DC192A5D6B10AF82F9F09F56CF1127",
     "contains": [
       "launcher"
     ]
@@ -24,10 +24,10 @@
   },
   "announcements": [],
   "suite": {
-    "version": "0.4.0-dev.4",
-    "base_version": "0.4.0",
+    "version": "0.4.1-dev.5",
+    "base_version": "0.4.1",
     "channel": "develop",
-    "candidate_revision": 4,
-    "source_commit": "6a4757834908d41272f1d05207d335d0f2bef477"
+    "candidate_revision": 5,
+    "source_commit": "ed8c6732ac8acc21c7a405d9acc27503210419e4"
   }
 }
