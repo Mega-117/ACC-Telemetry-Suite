@@ -1,13 +1,13 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-08-18T19:34:37Z",
+  "last_updated": "2026-08-18T19:46:05Z",
   "components": {
     "launcher": {
-      "version": "0.4.2-dev.3",
+      "version": "0.4.2-dev.4",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2-dev.3/ACC_Suite_Launcher_v0.4.2-dev.3.zip",
-      "sha256": "E8906AC2EBA49B8ED3A13FFD8CF02DDAAE46687A6744E1370FDCFF4EB3F65E06",
-      "changelog": "Build DEV v0.4.2-dev.3"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2-dev.4/ACC_Suite_Launcher_v0.4.2-dev.4.zip",
+      "sha256": "FECCE535BAC3D118BAD912038B8B1E7B04D98B852CB9D451E7C1E0302C437053",
+      "changelog": "Build DEV v0.4.2-dev.4"
     },
     "logger": {
       "version": "0.4.2-dev.1",
@@ -17,11 +17,11 @@
       "changelog": "Build DEV v0.4.2-dev.1"
     },
     "webapp": {
-      "version": "0.4.2-dev.3",
+      "version": "0.4.2-dev.4",
       "required": false,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2-dev.3/ACC_Suite_WebApp_v0.4.2-dev.3.zip",
-      "sha256": "0B37456B65D32BBC1B4DE7C1FD8C4BF12E5C54549234D764F6CA5FD4F27F4BB6",
-      "changelog": "Build DEV v0.4.2-dev.3"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2-dev.4/ACC_Suite_WebApp_v0.4.2-dev.4.zip",
+      "sha256": "E3C632155F22B413F6B3A03F34A60F4DFF1E36823FF015EF570F32C0A58D6326",
+      "changelog": "Build DEV v0.4.2-dev.4"
     },
     "kokoro_runtime": {
       "version": "1.0.0",
@@ -32,19 +32,19 @@
     }
   },
   "bundle": {
-    "version": "0.4.2-dev.3",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2-dev.3/ACC_Suite_Launcher_v0.4.2-dev.3.zip",
-    "sha256": "E8906AC2EBA49B8ED3A13FFD8CF02DDAAE46687A6744E1370FDCFF4EB3F65E06",
+    "version": "0.4.2-dev.4",
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2-dev.4/ACC_Suite_Launcher_v0.4.2-dev.4.zip",
+    "sha256": "FECCE535BAC3D118BAD912038B8B1E7B04D98B852CB9D451E7C1E0302C437053",
     "contains": [
       "launcher"
     ]
   },
   "announcements": [],
   "suite": {
-    "version": "0.4.2-dev.3",
+    "version": "0.4.2-dev.4",
     "base_version": "0.4.2",
     "channel": "develop",
-    "candidate_revision": 3,
-    "source_commit": "c2d9c607b5f006a3d016dd4e22fd7b78aefb249d"
+    "candidate_revision": 4,
+    "source_commit": "da47419231d06126d03398c29f4e307c2f5f2090"
   }
 }
