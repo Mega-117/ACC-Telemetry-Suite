@@ -1,27 +1,27 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-08-25T13:01:54Z",
+  "last_updated": "2026-08-28T14:57:03Z",
   "components": {
     "launcher": {
-      "version": "0.4.2",
+      "version": "0.4.3",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2/ACC_Suite_Launcher_v0.4.2.zip",
-      "sha256": "90C121FAA75BD440F285BDD252B0C99D6084F75CFB1FF4D0404B066037ED9F9E",
-      "changelog": "Build PROD v0.4.2"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.3/ACC_Suite_Launcher_v0.4.3.zip",
+      "sha256": "B20EA42FB1E212A92083B701BD5A59B3B275826A5173816E97BC24100BF1F395",
+      "changelog": "Build PROD v0.4.3"
     },
     "logger": {
-      "version": "0.4.2",
+      "version": "0.4.3",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2/ACC_Suite_Logger_v0.4.2.zip",
-      "sha256": "D186148BC6F6F55B5D7A51C382BD2DDC069521237D19847ADB0657AA4FD8DE68",
-      "changelog": "Build PROD v0.4.2"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.3/ACC_Suite_Logger_v0.4.3.zip",
+      "sha256": "2BCD6CE7BE68DED3AE6FE02BEAF06CCFBB1D2AF87C59F28E6B16FB191D367BD1",
+      "changelog": "Build PROD v0.4.3"
     },
     "webapp": {
-      "version": "0.4.2",
+      "version": "0.4.3",
       "required": false,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2/ACC_Suite_WebApp_v0.4.2.zip",
-      "sha256": "7AFF422159F64BB5EB8421A0707CB8C93428D2A0567352C1B39590FB688D2180",
-      "changelog": "Build PROD v0.4.2"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.3/ACC_Suite_WebApp_v0.4.3.zip",
+      "sha256": "B4241A9D5B17E063C8257298B776BEC27E8F9239C3052C182EEE16E1AB321E43",
+      "changelog": "Build PROD v0.4.3"
     },
     "kokoro_runtime": {
       "version": "1.0.0",
@@ -32,9 +32,9 @@
     }
   },
   "bundle": {
-    "version": "0.4.2",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2/ACC_Suite_Launcher_v0.4.2.zip",
-    "sha256": "90C121FAA75BD440F285BDD252B0C99D6084F75CFB1FF4D0404B066037ED9F9E",
+    "version": "0.4.3",
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.3/ACC_Suite_Launcher_v0.4.3.zip",
+    "sha256": "B20EA42FB1E212A92083B701BD5A59B3B275826A5173816E97BC24100BF1F395",
     "contains": [
       "launcher"
     ]
@@ -42,17 +42,17 @@
   "announcements": [],
   "manual_artifacts": {
     "launcher_repair": {
-      "version": "0.4.2",
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.2/ACC_Suite_Launcher_Repair_v0.4.2.zip",
-      "sha256": "F6FA829E8842A2544D0DCE9DCB0FAD434DC91D4C4AE157E9E599D03F8AB752E4",
-      "description": "Recovery manuale PROD v0.4.2"
+      "version": "0.4.3",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.3/ACC_Suite_Launcher_Repair_v0.4.3.zip",
+      "sha256": "A03BCB85F94A2854D639588A0D1741E7D8A01E21928485526A6F4A32CC3294C6",
+      "description": "Recovery manuale PROD v0.4.3"
     }
   },
   "suite": {
-    "version": "0.4.2",
-    "base_version": "0.4.2",
+    "version": "0.4.3",
+    "base_version": "0.4.3",
     "channel": "main",
     "candidate_revision": null,
-    "source_commit": "27e158fb9868ae7ee530c95d024c0b00a4397e70"
+    "source_commit": "08339a3c7910d11da1a8aef11e7f6513611449c4"
   }
 }
