@@ -1,27 +1,27 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-06T11:53:38Z",
+  "last_updated": "2026-09-07T00:23:34Z",
   "components": {
     "launcher": {
-      "version": "0.4.4-dev.12",
+      "version": "0.4.4-dev.15",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.12/ACC_Suite_Launcher_v0.4.4-dev.12.zip",
-      "sha256": "87F74CDBE07076308B4F40A32A0F5337052D731B2D18CB80CCC9F414D504B283",
-      "changelog": "Build DEV v0.4.4-dev.12"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.15/ACC_Suite_Launcher_v0.4.4-dev.15.zip",
+      "sha256": "AFEDD5E8AA3E98BC38347A1A80C1AE42FBC15BD13E52DF766C3060C7E1860BC4",
+      "changelog": "Build DEV v0.4.4-dev.15"
     },
     "logger": {
-      "version": "0.4.4-dev.12",
+      "version": "0.4.4-dev.15",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.12/ACC_Suite_Logger_v0.4.4-dev.12.zip",
-      "sha256": "5F1010FA740A01E7A8FC2DABA740D9DEF2AF7C62D8CA7D0D94213F1C0E256B51",
-      "changelog": "Build DEV v0.4.4-dev.12"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.15/ACC_Suite_Logger_v0.4.4-dev.15.zip",
+      "sha256": "C184EB9F8EF2251E62DAD19137EAFED59480CCF4D8EE253AB6B1624A399902EA",
+      "changelog": "Build DEV v0.4.4-dev.15"
     },
     "webapp": {
-      "version": "0.4.4-dev.12",
+      "version": "0.4.4-dev.15",
       "required": false,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.12/ACC_Suite_WebApp_v0.4.4-dev.12.zip",
-      "sha256": "C89436EDD43B994396FBD7E2D892E9EE8EDB2BB06F037A6B10C6A63808D8EAB8",
-      "changelog": "Build DEV v0.4.4-dev.12"
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.15/ACC_Suite_WebApp_v0.4.4-dev.15.zip",
+      "sha256": "FC9F8C1F880C768ECCD053233A0EF87A828769F7092085251F810C40C535278F",
+      "changelog": "Build DEV v0.4.4-dev.15"
     },
     "kokoro_runtime": {
       "version": "1.0.0",
@@ -32,9 +32,9 @@
     }
   },
   "bundle": {
-    "version": "0.4.4-dev.12",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.12/ACC_Suite_Launcher_v0.4.4-dev.12.zip",
-    "sha256": "87F74CDBE07076308B4F40A32A0F5337052D731B2D18CB80CCC9F414D504B283",
+    "version": "0.4.4-dev.15",
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.15/ACC_Suite_Launcher_v0.4.4-dev.15.zip",
+    "sha256": "AFEDD5E8AA3E98BC38347A1A80C1AE42FBC15BD13E52DF766C3060C7E1860BC4",
     "contains": [
       "launcher"
     ]
@@ -42,17 +42,17 @@
   "announcements": [],
   "manual_artifacts": {
     "launcher_repair": {
-      "version": "0.4.4-dev.12",
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.12/ACC_Suite_Launcher_Repair_v0.4.4-dev.12.zip",
-      "sha256": "2C73A0DDE656DB6362C9B3C320210C1A6C4168948E6931EBACC04A730F8FFE95",
-      "description": "Recovery manuale DEV v0.4.4-dev.12"
+      "version": "0.4.4-dev.15",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.4-dev.15/ACC_Suite_Launcher_Repair_v0.4.4-dev.15.zip",
+      "sha256": "B9E7DB9E45D7E5F17A28CECFC8CBFE7FA938D316138AAFEA10BD4C0CD2F02975",
+      "description": "Recovery manuale DEV v0.4.4-dev.15"
     }
   },
   "suite": {
-    "version": "0.4.4-dev.12",
+    "version": "0.4.4-dev.15",
     "base_version": "0.4.4",
     "channel": "develop",
-    "candidate_revision": 12,
-    "source_commit": "e1588eacf8963ccef32719cb1582579272bc7624"
+    "candidate_revision": 15,
+    "source_commit": "1679443f4d147422928cd9c29b1133e340901705"
   }
 }
