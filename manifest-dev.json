@@ -20,14 +20,6 @@
       }
     }
   },
-  "bundle": {
-    "version": "0.4.9-dev.1",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_launcher_0.4.9-dev.1.zip",
-    "sha256": "579B022CF7E4A6C4143FCCFB4E37AFCE3AF91DF6D5CD289CF6392B49F7DB642F",
-    "contains": [
-      "launcher"
-    ]
-  },
   "bootstrap": {
     "launcher_only": true,
     "next_manifest_url": "https://raw.githubusercontent.com/Mega-117/ACC-Telemetry-Suite/refs/heads/develop/manifest-dev-components-v4.json"
