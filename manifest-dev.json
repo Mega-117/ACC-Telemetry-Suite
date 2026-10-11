@@ -1,22 +1,22 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-11T20:09:00Z",
+  "last_updated": "2026-10-11T21:48:00Z",
   "components": {
     "launcher": {
-      "version": "0.4.9-dev.4",
+      "version": "0.4.9-dev.5",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_launcher_0.4.9-dev.4.zip",
-      "sha256": "616FDE5AFEE699AA11D5EDACD9BB5F5CC3AF1DFF8A7D1A97FCD808DE38E36BD1",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.5/RacerCore_develop_launcher_0.4.9-dev.5.zip",
+      "sha256": "4DE42BDBE4ED8733ABEC3F8E763BFC12F66C49815E9C883FA9F5701CD35ACDD0",
       "changelog": "",
       "optimized": {
         "format": "compact-v1",
-        "base_version": "0.4.9-dev.3",
-        "file": "RacerCore_develop_launcher_0.4.9-dev.4-compact.zip",
-        "sha256": "4ce44013c213c29ff0c054489c05e0de814c8191ed6ca30c44856ea10786bf94",
-        "version": "0.4.9-dev.4",
+        "base_version": "0.4.9-dev.4",
+        "file": "RacerCore_develop_launcher_0.4.9-dev.5-compact.zip",
+        "sha256": "5da433a6c67640d661d4a10a9257911a6e114356f731a0078f4887b7a85e604a",
+        "version": "0.4.9-dev.5",
         "origin": "new",
-        "tag": "v0.4.9-dev.4",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_launcher_0.4.9-dev.4-compact.zip"
+        "tag": "v0.4.9-dev.5",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.5/RacerCore_develop_launcher_0.4.9-dev.5-compact.zip"
       }
     }
   },
@@ -26,10 +26,10 @@
   },
   "announcements": [],
   "suite": {
-    "version": "0.4.9-dev.4",
+    "version": "0.4.9-dev.5",
     "base_version": "0.4.9",
     "channel": "develop",
-    "candidate_revision": 4,
-    "source_commit": "4d3f190ead4bb666e21dda7b53b1fed53205e502"
+    "candidate_revision": 5,
+    "source_commit": "0d722a0243341306dfc72d4de527592253523a52"
   }
 }
