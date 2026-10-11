@@ -1,22 +1,22 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-10T18:05:23Z",
+  "last_updated": "2026-10-11T20:09:00Z",
   "components": {
     "launcher": {
-      "version": "0.4.9-dev.1",
+      "version": "0.4.9-dev.4",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_launcher_0.4.9-dev.1.zip",
-      "sha256": "579B022CF7E4A6C4143FCCFB4E37AFCE3AF91DF6D5CD289CF6392B49F7DB642F",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_launcher_0.4.9-dev.4.zip",
+      "sha256": "616FDE5AFEE699AA11D5EDACD9BB5F5CC3AF1DFF8A7D1A97FCD808DE38E36BD1",
       "changelog": "",
       "optimized": {
         "format": "compact-v1",
-        "base_version": "0.4.9-dev.1",
-        "file": "RacerCore_develop_launcher_0.4.9-dev.1-compact.zip",
-        "sha256": "13a4a39621d946dba9e6076a5cec48f40a4a810816637aa33da0f910e5a1de85",
-        "version": "0.4.9-dev.1",
+        "base_version": "0.4.9-dev.3",
+        "file": "RacerCore_develop_launcher_0.4.9-dev.4-compact.zip",
+        "sha256": "4ce44013c213c29ff0c054489c05e0de814c8191ed6ca30c44856ea10786bf94",
+        "version": "0.4.9-dev.4",
         "origin": "new",
-        "tag": "v0.4.9-dev.1",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_launcher_0.4.9-dev.1-compact.zip"
+        "tag": "v0.4.9-dev.4",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_launcher_0.4.9-dev.4-compact.zip"
       }
     }
   },
@@ -26,10 +26,10 @@
   },
   "announcements": [],
   "suite": {
-    "version": "0.4.9-dev.1",
+    "version": "0.4.9-dev.4",
     "base_version": "0.4.9",
     "channel": "develop",
-    "candidate_revision": 1,
-    "source_commit": "f895cf4b1df62a6570a56ec2843065fe8f519efc"
+    "candidate_revision": 4,
+    "source_commit": "4d3f190ead4bb666e21dda7b53b1fed53205e502"
   }
 }
