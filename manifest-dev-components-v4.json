@@ -1,46 +1,46 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-10T18:05:23Z",
+  "last_updated": "2026-10-11T20:09:00Z",
   "components": {
     "launcher": {
-      "version": "0.4.9-dev.1",
+      "version": "0.4.9-dev.4",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_launcher_0.4.9-dev.1.zip",
-      "sha256": "579B022CF7E4A6C4143FCCFB4E37AFCE3AF91DF6D5CD289CF6392B49F7DB642F",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_launcher_0.4.9-dev.4.zip",
+      "sha256": "616FDE5AFEE699AA11D5EDACD9BB5F5CC3AF1DFF8A7D1A97FCD808DE38E36BD1",
       "changelog": "",
       "optimized": {
         "format": "compact-v1",
-        "base_version": "0.4.9-dev.1",
-        "file": "RacerCore_develop_launcher_0.4.9-dev.1-compact.zip",
-        "sha256": "13a4a39621d946dba9e6076a5cec48f40a4a810816637aa33da0f910e5a1de85",
-        "version": "0.4.9-dev.1",
+        "base_version": "0.4.9-dev.3",
+        "file": "RacerCore_develop_launcher_0.4.9-dev.4-compact.zip",
+        "sha256": "4ce44013c213c29ff0c054489c05e0de814c8191ed6ca30c44856ea10786bf94",
+        "version": "0.4.9-dev.4",
         "origin": "new",
-        "tag": "v0.4.9-dev.1",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_launcher_0.4.9-dev.1-compact.zip"
+        "tag": "v0.4.9-dev.4",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_launcher_0.4.9-dev.4-compact.zip"
       }
     },
     "logger": {
-      "version": "0.4.9-dev.1",
+      "version": "0.4.9-dev.4",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_logger_0.4.9-dev.1.zip",
-      "sha256": "1A7B96C7AD0D1C1B8A2B1759E331ADD9A4FD9C413368FE14E4837625F5A14D82",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_logger_0.4.9-dev.4.zip",
+      "sha256": "0A38320D9D2970E1F82A6EC1B92D0BDEC2648EE24BC03A431551DDCBCE947DC8",
       "changelog": ""
     },
     "webapp": {
-      "version": "0.4.9-dev.1",
+      "version": "0.4.9-dev.4",
       "required": false,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_webapp_0.4.9-dev.1.zip",
-      "sha256": "8BC93A1667A63B648D1A227C0CF690C22192FE36AB2A347AE1FD0483AD3EA61E",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_webapp_0.4.9-dev.4.zip",
+      "sha256": "DEE7BB32E0F0F614632C485E2F798319CBFC02DB49F07C279AE4FCF22CF1333C",
       "changelog": "",
       "optimized": {
         "format": "compact-v1",
-        "base_version": "0.4.9-dev.1",
-        "file": "RacerCore_develop_webapp_0.4.9-dev.1-compact.zip",
-        "sha256": "31136bfeaf3826205a67d328c97d3b54310f347f784a9eee101cc0d2b11fbbf7",
-        "version": "0.4.9-dev.1",
+        "base_version": "0.4.9-dev.3",
+        "file": "RacerCore_develop_webapp_0.4.9-dev.4-compact.zip",
+        "sha256": "a788509c0b2c132ba4b9aaa3b9b1d3c4c31f715f14f0f6707b34db8183adf744",
+        "version": "0.4.9-dev.4",
         "origin": "new",
-        "tag": "v0.4.9-dev.1",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_webapp_0.4.9-dev.1-compact.zip"
+        "tag": "v0.4.9-dev.4",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_webapp_0.4.9-dev.4-compact.zip"
       }
     },
     "kokoro_runtime": {
@@ -51,17 +51,17 @@
       "changelog": ""
     },
     "frontend": {
-      "version": "0.4.9-dev.1",
+      "version": "0.4.9-dev.4",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_frontend_0.4.9-dev.1.zip",
-      "sha256": "78C613A9316E2D365B240D2487678849AB1CCD47894F0A2A8B387A319E472405",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_frontend_0.4.9-dev.4.zip",
+      "sha256": "9916A70F157D39CBDB26235EC1D65BEF1A4C38E9DCEB269DA96278D642126183",
       "changelog": ""
     }
   },
   "bundle": {
-    "version": "0.4.9-dev.1",
-    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_launcher_0.4.9-dev.1.zip",
-    "sha256": "579B022CF7E4A6C4143FCCFB4E37AFCE3AF91DF6D5CD289CF6392B49F7DB642F",
+    "version": "0.4.9-dev.4",
+    "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_launcher_0.4.9-dev.4.zip",
+    "sha256": "616FDE5AFEE699AA11D5EDACD9BB5F5CC3AF1DFF8A7D1A97FCD808DE38E36BD1",
     "contains": [
       "launcher"
     ]
@@ -69,17 +69,17 @@
   "announcements": [],
   "manual_artifacts": {
     "launcher_repair": {
-      "version": "0.4.9-dev.1",
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.1/RacerCore_develop_launcher_0.4.9-dev.1.zip",
-      "sha256": "579B022CF7E4A6C4143FCCFB4E37AFCE3AF91DF6D5CD289CF6392B49F7DB642F",
+      "version": "0.4.9-dev.4",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.4/RacerCore_develop_launcher_0.4.9-dev.4.zip",
+      "sha256": "616FDE5AFEE699AA11D5EDACD9BB5F5CC3AF1DFF8A7D1A97FCD808DE38E36BD1",
       "description": ""
     }
   },
   "suite": {
-    "version": "0.4.9-dev.1",
+    "version": "0.4.9-dev.4",
     "base_version": "0.4.9",
     "channel": "develop",
-    "candidate_revision": 1,
-    "source_commit": "f895cf4b1df62a6570a56ec2843065fe8f519efc"
+    "candidate_revision": 4,
+    "source_commit": "4d3f190ead4bb666e21dda7b53b1fed53205e502"
   }
 }
