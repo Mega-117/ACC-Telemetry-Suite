@@ -1,22 +1,22 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-13T10:38:47Z",
+  "last_updated": "2026-10-13T19:36:43Z",
   "components": {
     "launcher": {
-      "version": "0.4.9-dev.8",
+      "version": "0.4.9-dev.9",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.8/RacerCore_develop_launcher_0.4.9-dev.8.zip",
-      "sha256": "860634CE9154CC5D62029577252F61904C232E73DEF06A12A3AD8AA14CAD67AD",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.9/RacerCore_develop_launcher_0.4.9-dev.9.zip",
+      "sha256": "51229E7F17442F5B3BC5A9BED19C15DF25013927BD26F2048815586795690890",
       "changelog": "",
       "optimized": {
         "format": "compact-v1",
-        "base_version": "0.4.9-dev.7",
-        "file": "RacerCore_develop_launcher_0.4.9-dev.8-compact.zip",
-        "sha256": "9447948c5743938951a32e819d5e4a2d89d38dcd958edd4f1f32e0f65a447754",
-        "version": "0.4.9-dev.8",
+        "base_version": "0.4.9-dev.8",
+        "file": "RacerCore_develop_launcher_0.4.9-dev.9-compact.zip",
+        "sha256": "36aea3852e27b83165e833900629721ea0802e3bc0aa75afdbe738eb6f3fa8a4",
+        "version": "0.4.9-dev.9",
         "origin": "new",
-        "tag": "v0.4.9-dev.8",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.8/RacerCore_develop_launcher_0.4.9-dev.8-compact.zip"
+        "tag": "v0.4.9-dev.9",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.9/RacerCore_develop_launcher_0.4.9-dev.9-compact.zip"
       }
     }
   },
@@ -26,10 +26,10 @@
   },
   "announcements": [],
   "suite": {
-    "version": "0.4.9-dev.8",
+    "version": "0.4.9-dev.9",
     "base_version": "0.4.9",
     "channel": "develop",
-    "candidate_revision": 8,
-    "source_commit": "81139886529efbcd5b5c95580f098ff4148803ee"
+    "candidate_revision": 9,
+    "source_commit": "1b3b309d607c187bbff67998e185093bd8364ecf"
   }
 }
