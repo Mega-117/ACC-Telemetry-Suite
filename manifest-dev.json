@@ -1,22 +1,22 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-13T19:36:43Z",
+  "last_updated": "2026-10-14T09:55:34Z",
   "components": {
     "launcher": {
-      "version": "0.4.9-dev.9",
+      "version": "0.4.9-dev.10",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.9/RacerCore_develop_launcher_0.4.9-dev.9.zip",
-      "sha256": "51229E7F17442F5B3BC5A9BED19C15DF25013927BD26F2048815586795690890",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.10/RacerCore_develop_launcher_0.4.9-dev.10.zip",
+      "sha256": "0855A82495269292896AAEAB13058801AC3269D56AF500A1C79E830B95292488",
       "changelog": "",
       "optimized": {
         "format": "compact-v1",
-        "base_version": "0.4.9-dev.8",
-        "file": "RacerCore_develop_launcher_0.4.9-dev.9-compact.zip",
-        "sha256": "36aea3852e27b83165e833900629721ea0802e3bc0aa75afdbe738eb6f3fa8a4",
-        "version": "0.4.9-dev.9",
+        "base_version": "0.4.9-dev.9",
+        "file": "RacerCore_develop_launcher_0.4.9-dev.10-compact.zip",
+        "sha256": "4f37643d13cdecc9652916ab8b86ac0a8c7046fdcf39a050501b0d54084a8f50",
+        "version": "0.4.9-dev.10",
         "origin": "new",
-        "tag": "v0.4.9-dev.9",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.9/RacerCore_develop_launcher_0.4.9-dev.9-compact.zip"
+        "tag": "v0.4.9-dev.10",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.10/RacerCore_develop_launcher_0.4.9-dev.10-compact.zip"
       }
     }
   },
@@ -26,10 +26,10 @@
   },
   "announcements": [],
   "suite": {
-    "version": "0.4.9-dev.9",
+    "version": "0.4.9-dev.10",
     "base_version": "0.4.9",
     "channel": "develop",
-    "candidate_revision": 9,
-    "source_commit": "1b3b309d607c187bbff67998e185093bd8364ecf"
+    "candidate_revision": 10,
+    "source_commit": "347582893da1e26caa75b2d109888221583fb889"
   }
 }
