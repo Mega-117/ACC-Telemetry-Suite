@@ -1,22 +1,22 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-17T13:13:35Z",
+  "last_updated": "2026-10-17T14:54:30Z",
   "components": {
     "launcher": {
-      "version": "0.4.9-dev.15",
+      "version": "0.4.9-dev.16",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.15/RacerCore_develop_launcher_0.4.9-dev.15.zip",
-      "sha256": "F96E0496F2BB70D14529EDF2C7471A3591B20DC58F673B437E0414C05A55823D",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.16/RacerCore_develop_launcher_0.4.9-dev.16.zip",
+      "sha256": "1390D59FC3D8107C61F60628EDF1A6B1DC508364B202AD8C2573F51ACD9C3FEC",
       "changelog": "",
       "optimized": {
         "format": "compact-v1",
-        "base_version": "0.4.9-dev.14",
-        "file": "RacerCore_develop_launcher_0.4.9-dev.15-compact.zip",
-        "sha256": "c68e4cdcebf10262b6ed0a1877549154653f1e85c1a9756f0fea7fd1b991616f",
-        "version": "0.4.9-dev.15",
+        "base_version": "0.4.9-dev.15",
+        "file": "RacerCore_develop_launcher_0.4.9-dev.16-compact.zip",
+        "sha256": "31b02064320f3305a63359aacf21ef8e3e78104e3d2e73155e92914d4cc64663",
+        "version": "0.4.9-dev.16",
         "origin": "new",
-        "tag": "v0.4.9-dev.15",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.15/RacerCore_develop_launcher_0.4.9-dev.15-compact.zip"
+        "tag": "v0.4.9-dev.16",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.4.9-dev.16/RacerCore_develop_launcher_0.4.9-dev.16-compact.zip"
       }
     }
   },
@@ -26,10 +26,10 @@
   },
   "announcements": [],
   "suite": {
-    "version": "0.4.9-dev.15",
+    "version": "0.4.9-dev.16",
     "base_version": "0.4.9",
     "channel": "develop",
-    "candidate_revision": 15,
-    "source_commit": "6e3de124e77bc3c4b1a7a5a431d9c54e13f485ee"
+    "candidate_revision": 16,
+    "source_commit": "4adee98b32f80e3a068768a7219d6d11bd62aed1"
   }
 }
