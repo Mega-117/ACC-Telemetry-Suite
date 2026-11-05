@@ -1,22 +1,22 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-04T21:25:00Z",
+  "last_updated": "2026-11-05T11:11:07Z",
   "components": {
     "launcher": {
-      "version": "0.5.3-dev.8",
+      "version": "0.5.3-dev.10",
       "required": true,
-      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.5.3-dev.8/RacerCore_develop_launcher_0.5.3-dev.8.zip",
-      "sha256": "86D3EA2D4165A604F2FA119134BE7F11083FBA14767581D9D5424981B86AE73B",
+      "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.5.3-dev.10/RacerCore_develop_launcher_0.5.3-dev.10.zip",
+      "sha256": "32655D56EF93D01C651DE1FBB337AA0AC25B98419AD3F84704A7A0EC8576FE31",
       "changelog": "",
       "optimized": {
         "format": "compact-v1",
-        "base_version": "0.5.3-dev.7",
-        "file": "RacerCore_develop_launcher_0.5.3-dev.8-compact.zip",
-        "sha256": "2ea5dd9ae2847af0de7c0a9504c339d672a8a6c072caa269e6ce73dcefe1333a",
-        "version": "0.5.3-dev.8",
+        "base_version": "0.5.3-dev.9",
+        "file": "RacerCore_develop_launcher_0.5.3-dev.10-compact.zip",
+        "sha256": "9cd50b3ea9530c8ea1ae15e79fe8fa5a01e6e0c0822fb6e92e371de92a49b9f8",
+        "version": "0.5.3-dev.10",
         "origin": "new",
-        "tag": "v0.5.3-dev.8",
-        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.5.3-dev.8/RacerCore_develop_launcher_0.5.3-dev.8-compact.zip"
+        "tag": "v0.5.3-dev.10",
+        "download_url": "https://github.com/Mega-117/ACC-Telemetry-Suite/releases/download/v0.5.3-dev.10/RacerCore_develop_launcher_0.5.3-dev.10-compact.zip"
       }
     }
   },
@@ -26,15 +26,15 @@
   },
   "announcements": [],
   "suite": {
-    "version": "0.5.3-dev.8",
+    "version": "0.5.3-dev.10",
     "base_version": "0.5.3",
     "channel": "develop",
-    "candidate_revision": 8,
-    "source_commit": "3bdac105e564c728cae418dc36c0aee15179f63c"
+    "candidate_revision": 10,
+    "source_commit": "6ad38302e523c79a0e3efd7368ffeb4ca1490eee"
   },
   "signature": {
     "alg": "ed25519",
     "key": "racer-2026-10",
-    "sig": "sKIrrCaEiQAz7MLjRog1HZlcd1N14L5iJJYK2ko8U/ogJjloEApG7n6CxfbUnd+Amtle0Mg+D7qJsskk+UKFDA=="
+    "sig": "sW/ps4Q9/lJVO3/p2jj1hK7zr+IvUuPUUhQWD9L0CP7Xh57JeCV4Yh7GdxyWY0YHvIXE+BsAbve1yiTHg9+VAA=="
   }
 }
